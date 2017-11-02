@@ -1,0 +1,35 @@
+html{
+  background-color: #8cb27c;
+  }
+table{
+   border: 1.5px solid white;
+   width: 327px;
+   height: 153.5px;
+   margin-top: -20px;
+
+  }
+.arcos .fa-square-o {
+ color: white;
+ position: relative;
+ top:90px;
+ margin-right:41px;
+ }
+
+ .fa-square-o{
+ margin-left: 90px;
+ }
+
+  .pelota{
+  position: relative;
+  top:30px;
+  left: 0;
+
+ }
+
+.fa-circle-thin{
+  color: white;
+  position: fixed;
+  margin-left: 150px;
+  margin-top: 50px;
+
+}
